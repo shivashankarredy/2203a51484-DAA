@@ -11,3 +11,5 @@ SELECTIONSORT=https://github.com/shivashankarredy/2203a51484-DAA/blob/main/selec
 binaray= https://github.com/shivashankarredy/2203a51484-DAA/blob/main/binaray%20search%20ASS(DAA).c
 
 WEEK-1-3=https://github.com/shivashankarredy/2203a51484-DAA/blob/main/1-3%20ass%20(DAA).c
+
+WEEK-2-1= https://github.com/shivashankarredy/2203a51484-DAA/blob/main/WEEK-2-1(DAA)%20.c
