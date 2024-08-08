@@ -7,3 +7,5 @@ Insertionsor=https://github.com/shivashankarredy/2203a51484-DAA/blob/main/Insert
 BUBBLESORT=https://github.com/shivashankarredy/2203a51484-DAA/blob/main/BUBBLESORT%20ASS%20(DAA).c
 
 SELECTIONSORT=https://github.com/shivashankarredy/2203a51484-DAA/blob/main/selectionSort%20AAS(DAA).c
+
+WEEK-1-3=https://github.com/shivashankarredy/2203a51484-DAA/blob/main/1-3%20ass%20(DAA).c
