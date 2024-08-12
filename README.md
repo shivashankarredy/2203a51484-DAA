@@ -13,3 +13,5 @@ binaray= https://github.com/shivashankarredy/2203a51484-DAA/blob/main/binaray%20
 WEEK-1-3=https://github.com/shivashankarredy/2203a51484-DAA/blob/main/1-3%20ass%20(DAA).c
 
 WEEK-2-1= https://github.com/shivashankarredy/2203a51484-DAA/blob/main/WEEK-2-1(DAA)%20.c
+
+Mergesort= https://github.com/shivashankarredy/2203a51484-DAA/blob/main/Merge%20sort.c
